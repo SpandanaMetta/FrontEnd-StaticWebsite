@@ -1,1 +1,1 @@
-# FrontEnd-TourismSaticWebsite
+# FrontEnd-TourismStaticWebsite
